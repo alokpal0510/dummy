@@ -1,2 +1,2 @@
 # dummy
-this is for practice
+this is for learning git
